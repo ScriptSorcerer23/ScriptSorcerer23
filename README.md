@@ -35,12 +35,9 @@
   <img src="https://img.shields.io/badge/LlamaIndex-0052FF?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex" />
   <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-4F46E5?style=for-the-badge" alt="Model Context Protocol" />
   
-  <!-- Vector DBs & MLOps -->
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <!-- Vector DBs -->
   <img src="https://img.shields.io/badge/Pinecone-13AA52?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
   <img src="https://img.shields.io/badge/ChromaDB-0052FF?style=for-the-badge&logo=google-cloud&logoColor=white" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
 </p>
 
 ### Languages and Core Tools:
@@ -50,9 +47,12 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="SciKit-Learn" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
   
   <!-- Frameworks & Backends -->
   <img src="https://img.shields.io/badge/fastapi-10998a?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
