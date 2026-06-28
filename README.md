@@ -26,8 +26,16 @@
 
 ---
 
-### Languages and Tools:
+### Agentic AI & GenAI Frameworks:
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langgraph&logoColor=38BDF8" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/LlamaIndex-0052FF?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-4F46E5?style=for-the-badge" alt="Model Context Protocol" />
+</p>
 
+### Languages and Core Tools:
 <p align="left">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -35,7 +43,7 @@
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   
-  <!-- AI/ML & Data -->
+  <!-- AI/ML & Data Science -->
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="SciKit-Learn" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
