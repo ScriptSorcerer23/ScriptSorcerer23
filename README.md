@@ -15,6 +15,10 @@
 - 👯 **I’m looking to collaborate on:** Open-source Agentic AI, Multi-Agent systems, and AI-powered mobile applications.
 - 💬 **Ask me about:** Agentic Workflows, RAG Pipelines, Multi-Agent Systems, and Full-Stack Mobile Development
 - 📫 **How to reach me:** sumamatahir.ai@gmail.com
+- 📄 **Know about my experiences:** https://sumama-resume.netlify.app
+
+
+
 - ⚡ **Fun fact:** I was supposed to be a Data Scientist!
 
 </div>
