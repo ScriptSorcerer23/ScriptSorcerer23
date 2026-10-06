@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Sumama
 
-### AI Engineer specializing in LLMs, RAG pipelines, agentic AI systems, and mobile app development.
+### AI Engineer specializing in Voice AI, LLMs, RAG pipelines, agentic AI systems, and mobile app development.
 
 ![Profile views](https://komarev.com/ghpvc/?username=ScriptSorcerer23&label=Profile%20views&color=0e75b6&style=flat-square)
 
@@ -12,8 +12,8 @@
 
 - 🔭 **I’m currently working on:** [Agentic OSINT Researcher](https://github.com/ScriptSorcerer23/osint-researcher)
 - 🌱 **I’m currently learning:** Advanced Multi-Agent Orchestration, Distributed AI Architectures, and Custom MCP Server Design
-- 👯 **I’m looking to collaborate on:** Open-source Agentic AI, Multi-Agent systems, and AI-powered mobile applications.
-- 💬 **Ask me about:** Agentic Workflows, RAG Pipelines, Multi-Agent Systems, and Full-Stack Mobile Development
+- 👯 **I’m looking to collaborate on:** Voice AI, Open-source Agentic AI, Multi-Agent systems, and AI-powered mobile applications.
+- 💬 **Ask me about:** Voice agents, Agentic Workflows, RAG Pipelines, Multi-Agent Systems, and Full-Stack Mobile Development
 - 📫 **How to reach me:** sumamatahir.ai@gmail.com
 - 📄 **Know about my experiences:** https://sumama-resume.netlify.app
 
