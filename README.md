@@ -1,6 +1,5 @@
 <div align="center">
 
-# Hi 👋, I'm Chaudhary Sumama
 
 ### AI Engineer specializing in Voice AI, LLMs, RAG pipelines, agentic AI systems, and mobile app development.
 
