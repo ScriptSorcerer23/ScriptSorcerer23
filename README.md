@@ -3,7 +3,7 @@
 
 ### AI Engineer specializing in Voice AI, LLMs, RAG pipelines, agentic AI systems, and mobile app development.
 
-**🌐 Portfolio: [sumama.tech](https://sumama.tech)** · try the live voice agent on the site
+**🌐 Portfolio: [sumama.tech](https://sumama.tech)** · 
 
 ![Profile views](https://komarev.com/ghpvc/?username=ScriptSorcerer23&label=Profile%20views&color=0e75b6&style=flat-square)
 
