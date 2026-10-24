@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Sumama
+# Hi 👋, I'm Chaudhary Sumama
 
 ### AI Engineer specializing in Voice AI, LLMs, RAG pipelines, agentic AI systems, and mobile app development.
+
+**🌐 Portfolio: [sumama.tech](https://sumama.tech)** · try the live voice agent on the site
 
 ![Profile views](https://komarev.com/ghpvc/?username=ScriptSorcerer23&label=Profile%20views&color=0e75b6&style=flat-square)
 
@@ -15,7 +17,7 @@
 - 👯 **I’m looking to collaborate on:** Voice AI, Open-source Agentic AI, Multi-Agent systems, and AI-powered mobile applications.
 - 💬 **Ask me about:** Voice agents, Agentic Workflows, RAG Pipelines, Multi-Agent Systems, and Full-Stack Mobile Development
 - 📫 **How to reach me:** sumamatahir.ai@gmail.com
-- 📄 **Know about my experiences:** https://sumama-resume.netlify.app
+- 📄 **Know about my experiences:** https://sumama.tech
 
 
 
@@ -26,6 +28,7 @@
 ---
 
 ### Connect with me:
+[![Portfolio](https://img.shields.io/badge/Portfolio-sumama.tech-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sumama.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaudharysumama/)
 
 ---
